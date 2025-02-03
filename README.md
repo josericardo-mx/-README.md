@@ -20,8 +20,8 @@
 
 ### 📊 **Estadísticas de GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioGitHub&theme=radical" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josericardo-mx&show_icons=true&theme=radical" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josericardo-mx&theme=radical" width="400px" />
 </p>
 
 ---
@@ -36,10 +36,10 @@
 
 ### 📫 **Conéctate conmigo**
 <p align="center">
-  <a href="https://linkedin.com/in/TuPerfil" target="_blank">
+  <a href="https://linkedin.com/in/josericardo-mx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/TuUsuario" target="_blank">
+  <a href="https://twitter.com/josericardo-mx" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:contacto@paginaswebmorelia.com">
